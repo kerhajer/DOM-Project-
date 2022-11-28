@@ -1,0 +1,99 @@
+body {
+background-color: aliceblue;
+margin:0 300px 0 300px;
+
+}
+ .shopping-product {
+
+
+ background-color: #fff;
+ display: grid;
+ grid-template-columns: 25% 25% 25% 25%;
+ align-items: center;
+
+
+
+ }
+img {
+
+  height: 200px;
+  width: 200px;
+
+}
+
+
+   p , .btnbtn--small   {
+    color: black;
+    font-size: 1.1rem;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    
+
+
+
+}
+#myform {
+    text-align: center;
+    padding: 5px;
+    border: 1px dotted aliceblue;
+    margin-right: 100px;
+}
+.qty {
+    width: 40px;
+    height: 25px;
+    text-align: center;
+}
+input.qtyplus { width:25px; height:25px;}
+input.qtyminus { width:25px; height:25px;}
+
+.titre{
+    font-size: 1.2rem;
+    font-family: Work Sans,Arial,sans-serif;
+    text-align: center;
+     margin:  10px 75px 10px 65px;
+}
+
+
+.title  {
+   
+    
+    font-size: 1.5rem;
+    font-family: Work Sans,Arial,sans-serif;
+    text-align: center;
+    margin:30px auto 30px auto ;
+
+}
+
+.addtocard {
+ border-color: aliceblue;
+
+
+
+}
+.totalprice {
+
+background-color: white;
+height: 400 px ;
+width: 200px;
+text-align: center;
+margin-left: 720px;
+font-size: 1.1rem;
+font-family: Work Sans,Arial,sans-serif;
+font-weight: 400;
+}
+hr{
+
+
+color:  grey;
+
+
+}
+.pricee {
+   text-align: center;
+   color: black;
+   font-size: 1.1rem;
+   font-family: Work Sans,Arial,sans-serif;
+   font-weight: 400;
+   
+
+}
